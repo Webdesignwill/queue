@@ -7,3 +7,4 @@ coverage
 .tmp
 .sass-cache
 lib/
+db.sqlite3
